@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer with over 18 years of hands-on experience 
 ## 💻 Technical Skills
 
 ### Programming Languages
-- **Java, JavaScript, Scala, Python, SAS**
+- **Java, Kotlin, JavaScript, Python, SAS**
 
 ### Backend & API Development
 - **Frameworks**: Spring MVC, Spring Boot, Spring Webflux, Kotlin, Vert.x, Node.js
@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer with over 18 years of hands-on experience 
 - **Platforms**: AWS, GCP, Pivotal Cloud Foundry (PCF), Pivotal Kubernetes Service (PKS)
 - **Cloud Services**: AWS SQS, SNS, EventBridge, Kinesis, AWS Lambda
 - **API Gateways**: Apigee, Tyk
-- **CI/CD & Tools**: Git, Maven, TeamCity
+- **CI/CD & Tools**: Git, Maven, TeamCity, Gitlab
 
 ### Messaging & Event-Driven Architecture
 - **Technologies**: RabbitMQ, IBM MQ, Kafka
